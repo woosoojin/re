@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'KHUthon',
         'USER': 'postgres',
         'PASSWORD': 'alsrnrdl0849',
-        'HOST': 'django-env2.qfrzmqai2w.us-west-2.elasticbeanstalk.com',
+        'HOST': '127.0.0.1',
         'PORT': '5432',
     }
 }
