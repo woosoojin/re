@@ -1561,10 +1561,10 @@ pre {
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   line-height: 1.5;
-  color: #495057;
-  background-color: #fff;
+  color: transparent;
+  background-color:transparent;
   background-clip: padding-box;
-  border: 1px solid #ced4da;
+  border: 1px solid #ffcdcd;
   border-radius: 0.25rem;
   -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
@@ -8824,7 +8824,7 @@ textarea.form-control {
           background: #404044; }
 
 .search-form {
-  background: #f4f4f5;
+  background: transparent;
   padding: 10px; }
   .search-form .form-group {
     position: relative; }
@@ -8878,7 +8878,7 @@ textarea.form-control {
   font-size: 15px;
   width: 100%;
   float: left;
-  background: #fff; }
+  background: transparent; }
   .sidebar-box *:last-child {
     margin-bottom: 0; }
   .sidebar-box h3 {
