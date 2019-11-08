@@ -24,3 +24,5 @@ sqlparse==0.3.0
 termcolor==1.1.0
 urllib3==1.24.3
 wcwidth==0.1.7
+
+python==3.6.4
